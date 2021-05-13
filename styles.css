@@ -77,6 +77,7 @@ h1 {
   color: #fff;
   height: 2em;
   margin-bottom: 0.5em;
+  display: flex;
 }
 
 .nav-list-link {
