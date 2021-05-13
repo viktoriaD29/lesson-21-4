@@ -79,6 +79,7 @@ h1 {
   margin-bottom: 0.5em;
   text-align: center;
   display: flex;
+  flex-grow: 1;
 }
 
 .nav-list-link {
@@ -89,5 +90,5 @@ h1 {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
-  flex-grow: 0;
+  
 }
